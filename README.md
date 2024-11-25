@@ -1,2 +1,2 @@
-<p style="text-align:center;"># 42 - libft</p>
+# *<p style="text-align:center;">libft</p>*
 libft library
