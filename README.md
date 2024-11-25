@@ -8,9 +8,9 @@ Libft is the first project I completed in my studies. It helped me develop my pr
 
 The libft library contains a portable collection of utility functions that can be used in different projects.
 
-| First Header  | Second Header |
+| Category  | Dexcription of functions |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Memory functions  | Memory allocation and manipulation, eg. `ft_memset` and `ft_memcpy`  |
 | Content Cell  | Content Cell  |
 
 
