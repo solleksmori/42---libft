@@ -1,2 +1,2 @@
-# *<p style="text-align:center;">libft</p>*
+# <p style="text-align:center;">Libft</p>
 libft library
