@@ -9,7 +9,7 @@ Libft is the first project I completed in my studies. It helped me develop my pr
 The libft library contains a portable collection of utility functions that can be used in different projects.
 
 |        Category        |        Description of functions                                             |
-|------------------------------------------------------------------------------------------------------|
+
 |  Memory functions      |  Memory allocation and manipulation, eg. `ft_memset` and `ft_memcpy`        |
 |  String manipulation   |  Handling and manipulating strings, eg. `ft_strchr` and `ft_strlcat`        |
 |  Character functions   |  Handling and transforming characters, eg. `ft_isprint` and `ft_toupper`    |
